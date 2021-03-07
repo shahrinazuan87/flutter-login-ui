@@ -1,16 +1,22 @@
 # fluttertest1
 
-A new Flutter project.
+A new Flutter project made by me. This is a project based on Flutter 2.0 via online zoom learning by Encik Khirul Nizam.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Need to know details about:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1) Widget
+2) Child | Children
+3) Stateless
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Screenshot App
+
+![Screenshot_1615092009](https://user-images.githubusercontent.com/47492640/110229175-89b76a00-7f42-11eb-850f-bb2cec05ec72.png)
+
+[Link to how to add screenshot to your github repo](https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-readme-file-on-github-d806a01d6ffd) 
