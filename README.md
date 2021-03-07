@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot App
 
-![Screenshot_1615092009](https://user-images.githubusercontent.com/47492640/110229175-89b76a00-7f42-11eb-850f-bb2cec05ec72.png?v=4&s=200)
+<img src="https://user-images.githubusercontent.com/47492640/110229175-89b76a00-7f42-11eb-850f-bb2cec05ec72.png" width="40%" height="40%">
 
 [Link to how to add screenshot to your github repo](https://medium.com/@justynagolawska/how-to-easily-add-screenshots-into-your-readme-file-on-github-d806a01d6ffd) 
