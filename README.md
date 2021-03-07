@@ -5,17 +5,17 @@ A simple Login UI Flutter project made by me. This is a project based on Flutter
 ## Output Learning Lesson
 
 1) How to use TextField attribute.
-2) Flutter get more paranthesis.
-3) How to install plugin/library.
+2) Flutter get more paranthesis. Use VSCode extension Bracket Pair Colorizer to differentiate each paranthesis.
+3) How to install plugin/library and insert it into pubspec.yaml.
 4) How to use FlutterToast. 
+5) How to run/debug inside Emulator.
+6) How to create Flutter project.
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot App
-
-<img src="https://user-images.githubusercontent.com/47492640/110229175-89b76a00-7f42-11eb-850f-bb2cec05ec72.png" width="30%" height="30%">
 
 | Login Page |
 |------------|
